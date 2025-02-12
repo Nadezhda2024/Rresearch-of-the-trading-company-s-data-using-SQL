@@ -19,72 +19,62 @@
 ## Исследование полученных данных:
 
 **Исследование структуры таблицы** 
-Ссылка на тестовую среду
 
-<b>[](https://dbfiddle.uk/4D1pk94-?hide=2)
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/4D1pk94-?hide=2)
 
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\EXEC sp_help.png")
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/EXEC%20sp_help.png)
 
 
 **Исследование каждого поля**
-Ссылка на тестовую среду
 
-<b>[](https://dbfiddle.uk/utQRs-A9)
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/utQRs-A9)
 
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\SELECT, FROM, COUNT, MIN, MAX, AVG, DISTINCT.png")
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/SELECT%2C%20FROM%2C%20COUNT%2C%20MIN%2C%20MAX%2C%20AVG%2C%20DISTINCT.png)
 
 Предоставленные данные в таблице из корпоративного хранилища компании «СтройСнаб» содержат информацию за определенный временной промежуток, отражающие явления и процессы компании. В сборнике помещены показатели: типы заказов, категории продуктов, продукт, производитель, количество продукта, цена, цена продажи.
 
 ## Исправление ошибок в данных
-Ссылка на тестовую среду
 
-<b>[](https://dbfiddle.uk/Qf7w5pPZ)
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/Qf7w5pPZ)
 
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\DELETE, UPDATE.png")
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/DELETE%2C%20UPDATE.png)
 
 ## Анализ финансовых показателей
+
 **Расчеты с помощью SQL**
-Ссылка на тестовую среду
 
-<b>[](https://dbfiddle.uk/Lxez5yfT)
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/Lxez5yfT)
 
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\SUM,  WHERE, GROUP BY, ORDER BY.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\SUM, ROUND, WHERE, CASE, GROUP BY, ORDER BY.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\SUM, ROUND, WHERE, CASE, GROUP BY, ORDER BY 1.png")
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/SUM%2C%20%20WHERE%2C%20GROUP%20BY%2C%20ORDER%20BY.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/SUM%2C%20ROUND%2C%20WHERE%2C%20CASE%2C%20GROUP%20BY%2C%20ORDER%20BY.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/SUM%2C%20ROUND%2C%20WHERE%2C%20CASE%2C%20GROUP%20BY%2C%20ORDER%20BY%201.png)
 
-**Отчет анализа финансовых показателей в Microsoft Excel**
-### []("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\отчет анализа финансовых показателей.xlsx")
+###[Отчет анализа финансовых показателей в Microsoft Excel](https://docs.google.com/spreadsheets/d/1wANTVPisHzI8eJYfHfKCbCEhtIpJqzB2/edit?usp=sharing&ouid=105723758090183599080&rtpof=true&sd=true)
 
 ## Модернизация структуры БД
 
-Ссылка на тестовую среду
-
-<b>[](https://dbfiddle.uk/teV4PCrC)
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/teV4PCrC)
 
 Сформировала таблицы справочники с присвоением  идентификаторов во всех справочниках, начинающихся со значения 1 и монотонно возрастающие без пропуска значений. Для получения результата использовала автоинкремент. Наполнила основную таблицу данными из созданных справочников.
 
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\CREATE TABLE, INSERT.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\CREATE TABLE, INSERT, IDENTITY.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\CREATE TABLE, INSERT, JOIN.png")
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/CREATE%20TABLE%2C%20INSERT.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/CREATE%20TABLE%2C%20INSERT%2C%20IDENTITY.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/CREATE%20TABLE%2C%20INSERT%2C%20JOIN.png)
 
 ## Расчёт остатков на складе
-Ссылка на тестовую среду
 
-<b>[](https://dbfiddle.uk/aBmaks_X)
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/aBmaks_X)
 
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\СПРАВОЧНИКИ.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\объединение таблиц.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\расчет остатков COALESCE, CASE.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\COALESCE, CASE.png")
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%9E%D0%A7%D0%9D%D0%98%D0%9A%D0%98.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%20COALESCE%2C%20CASE.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/COALESCE%2C%20CASE.png)
 
 ## Импорт дополнительной порции данных
 
-Ссылка на тестовую среду
+<b>[Ссылка на тестовую среду](https://dbfiddle.uk/FWXHaz0R)
 
-<b>[](https://dbfiddle.uk/FWXHaz0R)
-
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\SUBSTRING,  TRIM.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\новая таблица.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\проверка соответствия справочникам.png")
-![]("C:\Users\User\Documents\BI_аналитик\Github\Проектная работа по SQL\наполнение новой таблицы данными.png")
-
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/SUBSTRING%2C%20%20TRIM.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC.png)
+![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.png)
