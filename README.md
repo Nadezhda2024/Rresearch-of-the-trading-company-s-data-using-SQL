@@ -65,8 +65,8 @@
 
 <b>[Ссылка на тестовую среду](https://dbfiddle.uk/aBmaks_X)
 
-![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%9E%D0%A7%D0%9D%D0%98%D0%9A%D0%98.png)
-![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86.png)
+![]()
+![]()
 ![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%20COALESCE%2C%20CASE.png)
 ![](https://github.com/Nadezhda2024/Rresearch-of-the-trading-company-s-data-using-SQL/blob/main/COALESCE%2C%20CASE.png)
 
